@@ -1,2 +1,6 @@
 # Nashville-Housing
 Nashville Housing sales
+
+As a novice analyst, I embarked on this project to investigate the Nashville Housing sales. The project involved extensive data collection, cleaning, and analysis to provide a comprehensive report on the sales of properties in Nashville, Tennessee. Through the use of statistical techniques, I identified patterns and trends in the data. The final report provided valuable insights and recommendations for real estates investors. Overall, the project allowed me to hone my analytical skills and provided a meaningful contribution to to the real estate business in the city.
+
+Keep in mind that I completed this project as part of @AlexTheAnalyst boot camp. While the boot camp focused on using SQL Server, I encountered challenges when attempting to write the code for MySQL. This obstacle presented an opportunity for me to explore and discover alternative solutions, enabling me to develop coding skills in different environments. Despite the initial difficulty, I was able to complete the project successfully, utilizing MySQL to collect, clean, and analyze the data, and presenting my findings in a comprehensive report. The experience allowed me to further my knowledge and provided a valuable opportunity to develop my analytical and problem-solving skills.
